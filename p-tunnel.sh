@@ -4,7 +4,7 @@ set -e
 PYTHON_BIN="python3"
 # ATTENTION: Replace the URL below with your actual GitHub raw URL
 INSTALLER_URL="https://raw.githubusercontent.com/Dnt3e/P-Tunnel/refs/heads/main/Source/p-tunnel.py"
-INSTALLER_PATH="/usr/local/bin/install_pingtunnel.py"
+INSTALLER_PATH="/usr/local/bin/p-tunnel.py"
 
 check_root() {
   if [[ $EUID -ne 0 ]]; then
