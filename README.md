@@ -19,7 +19,7 @@ A professional, high-performance wrapper for **Pingtunnel** that enables tunneli
 Run the following command to install or manage your Pingtunnel instances:
 
 ```bash
-curl -Ls https://raw.githubusercontent.com/Dnt3e/P-Tunnel/main/p-tunnel.sh | bash
+curl -Ls https://raw.githubusercontent.com/Dnt3e/P-Tunnel/main/bash.sh | bash
 
 ```
 
